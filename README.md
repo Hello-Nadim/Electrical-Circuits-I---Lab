@@ -1,1 +1,1 @@
-# Electrical-Circuits-I---Lab
+# Electrical-Circuits-I-Lab
